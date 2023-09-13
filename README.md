@@ -2,11 +2,9 @@
 
 In the realm of digital media, the influence of YouTube as a content platform cannot be underestimated. In the pursuit of generating data-driven insights and putting my learnings into a project, I embarked on a data analysis of three distinct YouTube channels. These channels, namely Ken Jee, Tina Huang, and Alex the Analyst, have garnered substantial attention within the data community and I will be using their data for this exploratory analysis project. 
 
-Data Collection
+Data Collection : The data for this analysis has been obtained using the YouTube Data API. 
 
-The data for this analysis has been obtained using the YouTube Data API. 
-
-Data Analysis & Visualization
+Data Analysis & Visualization : 
 
 1. Channel Metrics and Significance - A foundational understanding of each channel’s scale - their audience reach and content library size within the YT ecosystem.
 2. Metrics Interplay and Correlations - Exploring the correlations and relationships among engagement metrics - views, likes and comments. 
