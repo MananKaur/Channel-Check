@@ -15,3 +15,5 @@ Data Analysis & Visualization :
 7. Audience Engagement Spectrum - A comparative analysis, employing box plots to characterize the spectrum of audience engagement.
 8. Video Length Impact on Viewer Engagement - Exploring the relationship between video duration and engagement metrics to evaluate the implication of content duration and its effects on viewer likes and comments. 
 9. Descriptive Statistics for the engagement metrics - Calculating descriptive statistics (mean, median, standard deviation, etc.) for key engagement metrics such as likes, comments to draw a summary of the central tendencies and variability of these metrics, and to understand the typical performance of each channel.
+
+Have a look at the report in this repository to find the result of this analysis.     
